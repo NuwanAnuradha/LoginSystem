@@ -1,0 +1,67 @@
+body{
+	background: linear-gradient(rgba(0, 0, 50, 0.5),rgba(0, 0, 50, 0.5)),url(welcome.gif);
+	background-size: cover;
+    background-position: center;
+    
+}
+
+/*.container{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0px;
+    top: 0px;
+    margin: 0;
+    padding: 0;
+    z-index: -1000;
+    overflow: hidden;
+}
+.myVideo{
+    min-height: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}*/
+.login-box{
+    max-width: 700px;
+    float: none;
+    margin: 150px auto;
+    
+}
+.login-left{
+    background: rgba(211, 211, 211, 0.5);
+    padding: 30px;
+}
+.login-right{
+    background: #fff;
+    padding: 30px;
+}
+.form-control{
+    background-color: transparent !important;
+}
+a{
+    color: #fff !important;
+    margin-top: -200px !important;
+}
+h1{
+    color: #fff !important;
+    margin-top: 200px !important;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
